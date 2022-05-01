@@ -4,7 +4,8 @@ A Jupyter Notebook exploring overfitting, validation, and regression
 
 ## Overfitting and Validation
 
-![image](https://user-images.githubusercontent.com/96924468/166147130-fd918bb8-5d7f-4ffa-95be-1a1e1b59b26f.png) Training MSE: 0.054 Validation MSE: 0.047
+![image](https://user-images.githubusercontent.com/96924468/166147130-fd918bb8-5d7f-4ffa-95be-1a1e1b59b26f.png) 
+Training MSE: 0.054 Validation MSE: 0.047
 
 ![image](https://user-images.githubusercontent.com/96924468/166147159-ca73ccf2-26bc-4a3e-a6e3-c7eb0580c7ab.png)
 
